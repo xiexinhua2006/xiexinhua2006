@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=xiexinhua2006&show_icons=true&count_private=true&icon_color=e1534a&title_color=e1534a" />
+[![DrBlack's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiexinhua2006)]
 
 # Dr_Black / xiexinhua2006
 ## About
