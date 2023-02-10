@@ -18,7 +18,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000?style=flat-square&logo=Flutter&logoColor=fff)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-000?style=flat-square&logo=Kotlin&logoColor=FFF)
 ![Java](https://img.shields.io/badge/-Java-000?style=flat-square&logo=Java&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=fff)
+![C#](https://img.shields.io/badge/-C_Sharp-000?style=flat-square&logo=CSharp&logoColor=FFF)
 
 ## My Contact
 [![Blog](https://img.shields.io/badge/-DrBlack-000?style=flat-square&logo=WordPress&logoColor=fff)](https://tsukisou.ink)
