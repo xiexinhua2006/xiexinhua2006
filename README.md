@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![DrBlack's GitHub stats]<img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=xiexinhua2006&repo=github-readme-stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
 
 # Dr_Black / xiexinhua2006
 ## About
